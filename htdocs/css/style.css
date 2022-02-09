@@ -1,0 +1,19 @@
+@import url("https://fonts.googleapis.com/css?family=Poppins: 300,400,500, 600,700,800,900&display=swap");
+@import url("https://fonts. googleapis.com/css2?family-Rancho&display3swap");
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Poppins", sans-serif;
+}
+body {
+  background-image: url(../img/jungle.png);
+  text-align: center;
+  color: #fff;
+}
+h2 {
+  color: rgb(0, 0, 0);
+}
+h4 {
+  text-align: center;
+}
